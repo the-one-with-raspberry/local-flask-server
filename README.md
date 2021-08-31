@@ -1,5 +1,5 @@
 # Local flask server
-##### An open-source local python server, for windows
+##### A local python server, for windows
 ---
 # Instructions:
 1. Download pip [here](https://pypi.org/project/pip/#files).
