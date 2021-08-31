@@ -11,3 +11,6 @@
 7. Download server.py, go into the directory where the file is and type in the command line: `python server.py`
 8. Open the web browser and enter this location: `localhost:8080/tests/first`.
 9. Boom! The server is open! If you want to restart it, press `Ctrl+C` and repeat step 7.
+---
+# Other things:
+You can edit from serve(), for example you can edit `port=8080` to `port=4050` and now you need to go to localhost:4050 instead of 8080!
